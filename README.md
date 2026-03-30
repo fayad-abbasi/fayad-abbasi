@@ -27,7 +27,7 @@ Currently at **impact.com**, where I own the developer experience platform strat
 |---|---|---|
 | [**codeguard-ai**](https://github.com/fayad-abbasi/codeguard-ai) | AI-powered PR review assistant — analyzes code quality, security, and best practices automatically | Python · Claude API · GitHub Actions |
 | [**ai-podcast-generator**](https://github.com/fayad-abbasi/ai-podcast-generator) | Generates podcast-style audio summaries from any content source | Python · Claude API |
-| [**PM Assistant**](https://github.com/fayad-abbasi/PM-Assistant) | A full PM operating system built natively in Claude Code — slash commands, hooks, and MCP integrations covering the entire lifecycle from discovery to retrospective
+| [**PM Assistant**](https://github.com/fayad-abbasi/PM-Assistant) | A full PM operating system built natively in Claude Code — slash commands, hooks, and MCP integrations covering the entire lifecycle from discovery to retrospective | Python · Claude Code · FastMCP |
 
 ---
 
