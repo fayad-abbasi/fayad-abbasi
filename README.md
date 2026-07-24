@@ -2,72 +2,67 @@
 
 # Fayad Abbasi
 
-**DevEx Product Manager @ impact.com**
+### Product manager building better developer systems — and proving ideas by shipping them.
 
-*Building AI-native developer platforms · Columbus, OH*
+**Developer Experience @ [impact.com](https://impact.com)** · Columbus, Ohio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fayad--abbasi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayad-abbasi/)
-[![impact.com](https://img.shields.io/badge/Company-impact.com-FF6B35?style=flat)](https://impact.com)
+[![impact.com](https://img.shields.io/badge/impact.com-Developer%20Experience-FF6B35?style=flat)](https://impact.com)
 
 </div>
 
 ---
 
-## What I'm Building
+## The through-line
 
-I'm a DevEx PM focused on one question: **how do we make engineers faster, happier, and more autonomous?** My north star is agentic developer tooling — platforms where AI handles the scaffolding so engineers focus on the work that matters.
+I work where **product strategy, developer experience, and AI-native systems** meet.
 
-Currently at **impact.com**, where I own the developer experience platform strategy — CI/CD velocity, internal tooling, and AI-assisted workflows across the engineering org.
+At impact.com, I focus on the systems around software delivery: developer tooling, platform adoption, CI/CD, and AI-assisted workflows. The goal is simple even when the systems are not — reduce cognitive load, shorten the path from idea to production, and give engineers more time for the work that requires judgment.
+
+I am also a hands-on builder. I use Python, APIs, automation, and agentic development workflows to turn product ideas into working systems. Building keeps my product judgment honest: architecture, edge cases, observability, and maintenance all become real before they become roadmap promises.
 
 ---
 
-## Active Projects
+## What I'm building
 
-| Project | What it does | Stack |
+| Project | The problem | What is interesting about it |
 |---|---|---|
-| [**ai-podcast-generator**](https://github.com/fayad-abbasi/ai-podcast-generator) | Generates podcast-style audio summaries from any content source | Python · Claude API |
-| [**PM Assistant**](https://github.com/fayad-abbasi/PM-Assistant) | A full PM operating system built natively in Claude Code — slash commands, hooks, and MCP integrations covering the entire lifecycle from discovery to retrospective | Python · Claude Code · FastMCP |
+| **HealthOS** *(private, in active development)* | Personal health data is abundant; useful decisions are not. | A privacy-first health intelligence system designed to fuse Garmin and HealthKit data into context-aware recommendations. The Python worker is complete — sync, data fusion, recommendation rules, check-ins, training views, export, and 596 passing tests — with the native iOS experience next. |
+| [**PM Assistant**](https://github.com/fayad-abbasi/PM-Assistant) | Product work is fragmented across tools and repeated rituals. | A Claude Code-native PM operating system using commands, skills, hooks, and MCP integrations across the product lifecycle, from discovery through retrospective. |
+| [**AI Industry Weekly**](https://github.com/fayad-abbasi/ai-podcast-generator) | Staying current on AI news should not require reading the same story eighteen times. | A fully automated, multi-stage podcast pipeline: source ingestion, change detection, Claude-powered synthesis and script generation, text-to-speech, RSS publishing, and GitHub Actions deployment. |
 
 ---
 
-## Focus Areas
+## How I work
 
-```
-Developer Experience (DevEx)     ██████████████████░░  Platform velocity & DORA metrics
-AI Tooling & Agentic Systems     ████████████████░░░░  Claude Code, MCP, agentic workflows
-CI/CD & Internal Platforms       ██████████████░░░░░░  GitHub Actions, secret scanning, pipelines
-Python & API Development         ████████████░░░░░░░░  Claude API, REST, automation scripts
-```
-
----
-
-## Background
-
-Before DevEx, I spent years as a VP PM at **JPMorgan Chase** — building deposit pricing models that moved $100M+, modernizing data pipelines (Spark, 40+ jobs), and shipping branch forecasting tools. That financial rigor is now applied to developer productivity: measuring what matters, cutting what doesn't.
+- **Product strategy should survive contact with the code.** I prototype to expose the hard parts early.
+- **Good DevEx reduces cognitive load.** The best platform is the paved road engineers want to take.
+- **AI systems need engineering discipline.** Useful agents depend on clear context, deterministic seams, tests, guardrails, and honest failure modes — not just clever prompts.
+- **Measure outcomes, not activity.** Adoption, flow, reliability, and developer sentiment matter more than tool counts.
+- **Build the practice, not the theater.** Durable conventions and workflows outlast whichever tool is fashionable this quarter.
 
 ---
 
-## What I'm Learning
+## The background behind the work
 
-- 🤖 **Agentic coding patterns** — working through IndyDevDan's TAC curriculum
-- ⚙️ **Claude Code** — custom commands, skills, hooks, and multi-agent orchestration  
-- 🐍 **Python & systems programming** — as part of an 11-pillar CS self-study program mapped to MIT/Stanford coursework
-- 📐 **DevEx metrics** — DORA, SPACE framework, and building internal dashboards that actually change behavior
+Before product management, I was a technology equity research analyst — studying complex markets, meeting company leaders, and turning incomplete information into an investment view. Reinventing myself as a product manager is one of the professional accomplishments I am proudest of.
+
+That background still shapes how I operate: find the signal, understand the system, make the tradeoff explicit, and communicate a point of view that can withstand scrutiny. Today I apply that discipline to developer platforms and AI products.
 
 ---
 
-## Philosophy
+## Current interests
 
-> Good DevEx isn't about tools. It's about **cognitive load**. Every second an engineer spends fighting their environment is a second they're not solving the problem they were hired to solve.
-
-I build platforms that get out of the way.
+`Developer Experience` · `Internal Platforms as Products` · `Agentic Developer Workflows` · `Local-First AI` · `MCP` · `GitHub Actions` · `Python` · `Product Systems`
 
 ---
 
 <div align="center">
 
-*Always open to conversations about DevEx, AI tooling, and developer productivity.*
+### Let's compare notes
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayad-abbasi/)
+I am always interested in thoughtful conversations about DevEx, internal platforms, AI-native product practice, and the systems that help technical teams do their best work.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayad-abbasi/)
 
 </div>
